@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865124159244",
+    "project_id": "spotifyencore-ee16b",
+    "storage_bucket": "spotifyencore-ee16b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865124159244:android:77263bbfe007e7a20ec329",
+        "android_client_info": {
+          "package_name": "com.example.spotify_encore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB034Oa0m0yfSF9GyTjaiw5b-ts1og2yEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
